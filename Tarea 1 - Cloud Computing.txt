@@ -1,1 +1,5 @@
+Nuestro Grupo:
+-José Andrés Gómez Arrúa
+-Dieter Ariel Pastoriza Marecos
+-Esteban Benitez
 Hola esta es nuestro archivo para la tarea de cloud computing
